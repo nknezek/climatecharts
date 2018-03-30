@@ -1,0 +1,3 @@
+USAF-WBAN_ID STATION NAME                   COUNTRY                                            STATE 			      LATITUDE LONGITUDE ELEVATION
+------------ ------------------------------ -------------------------------------------------- ------------------------------ -------- --------- ---------
+911820 22521 HONOLULU INTERNATIONAL AIRPORT UNITED STATES                                      HAWAII                          +21.324  -157.929   +0002.1

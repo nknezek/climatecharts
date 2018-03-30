@@ -1,0 +1,3 @@
+USAF-WBAN_ID STATION NAME                   COUNTRY                                            STATE 			      LATITUDE LONGITUDE ELEVATION
+------------ ------------------------------ -------------------------------------------------- ------------------------------ -------- --------- ---------
+994033 99999 ALAMEDA                        UNITED STATES                                      CALIFORNIA                      +37.772  -122.298   +0002.0

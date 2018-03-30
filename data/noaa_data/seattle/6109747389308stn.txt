@@ -1,0 +1,3 @@
+USAF-WBAN_ID STATION NAME                   COUNTRY                                            STATE 			      LATITUDE LONGITUDE ELEVATION
+------------ ------------------------------ -------------------------------------------------- ------------------------------ -------- --------- ---------
+727930 24233 SEATTLE-TACOMA INTERNATIONAL A UNITED STATES                                      WASHINGTON                      +47.444  -122.314   +0112.8

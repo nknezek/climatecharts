@@ -1,0 +1,3 @@
+USAF-WBAN_ID STATION NAME                   COUNTRY                                            STATE 			      LATITUDE LONGITUDE ELEVATION
+------------ ------------------------------ -------------------------------------------------- ------------------------------ -------- --------- ---------
+722589 03991 DENTON MUNICIPAL AIRPORT       UNITED STATES                                      TEXAS                           +33.206  -097.199   +0195.7
